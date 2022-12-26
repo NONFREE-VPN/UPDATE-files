@@ -1,29 +1,22 @@
 {
+"files": [   
 
-   "files": [   
- {
-         "name": "Dtac​ Free SG01",
-         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/Dtac%20Free%20SG01.ovpn"
-      },
-
-
-      
-    {
-         "name": "True Free  TH01",
-         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/DTAC%20Free%20TH01.ovpn"
-      },  
-
- 
-      
-      {  
-         "name": "True Free  TH02",
-         "url": "https://raw.githubusercontent.com/Nknooker/Nknooker/main/True%20Free%20TH%E2%80%8B02.ovpn"
-      }   
+{ "name": "DTAC-FREE",
+ "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/DTAC-FREE.ovpn" },
+   
+{ "name": "TRUE-FREE",
+ "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TRUE-FREE.ovpn" }    
       
       
 
-   ],
-"message":" \nรองรับ NOPRO Dtac  True​\n​DTAC​ NOPRO\n​TRUE​ NOPRO\nเซิร์ฟเวอร์ไม่แรง\nต้องขออภัยมาใน ณ ที่นี้ด้วยครับ\nเคดิตไฟล์ Addmin NONTHAI\n คอนฟิกเวอร์ชั่น: 6.1 \nอัพเดทเมื่อวันที่: 26/ธค/2022\n \nผู้พัฒนาแอพ:SAMUPRO\n  ",
+],
+"message":" 
+\n📱รองรับทุกซิม🇹🇭DTAC🇸🇬TRUE🎮AIS🌍
+​\n​DTAC​-NOPRO\n​TRUE​-NOPRO\n​AIS-PLAY
+\n🙏🙏เซิร์ฟเวอร์ไม่แรง🙏🙏
+\n♥️ต้องขออภัยมาใน ณ ที่นี้ด้วยครับ♥️
+\nเคดิตไฟล์ Addmin NONTHAI🚀\n คอนฟิกเวอร์ชั่น: 6.1 
+\nอัพเดทเมื่อวันที่: 26/ธค/2022\n \nผู้พัฒนาแอพ:SAMUPRO\n  ",
    "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-   "version": 7.1
+   "version": 9.1
 }
