@@ -2,10 +2,10 @@
 "files": [   
 
 { "name": "DTAC-FREE-SG",
- "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/DTAC-FREE.ovpn" }
+ "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/DTAC-FREE.ovpn" },
    
 { "name": "TRUE-FREE-SG",
- "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TRUE-FREE.ovpn" }   
+ "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TRUE-FREE.ovpn" },   
   
 { "name": "TRUE-TH-CAT",
  "url": "https://raw.githubusercontent.com/NONFREE-VPN/Files/main/TH-TRUE-NOPRO-CAT.ovpn" },    
