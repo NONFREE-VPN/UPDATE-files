@@ -7,14 +7,14 @@
 { "name": "TRUE-FREE-TH",
  "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TRUE-FREE.ovpn" },    
   
-{ "name": "TRUE-FREE-TH",
+{ "name": "TRUE-TH-CAT",
  "url": "https://raw.githubusercontent.com/NONFREE-VPN/Files/main/TH-TRUE-NOPRO-CAT.ovpn" },    
   
 
-{ "name": "TRUE-FREE-TH",
+{ "name": "AIS-TH-CAT",
  "url": "https://raw.githubusercontent.com/NONFREE-VPN/Files/main/TH-AIS-PLAY64K-CAT.ovpn" },
 
-{ "name": "TRUE-FREE-TH",
+{ "name": "DTAC-TH-CAT",
  "url": "https://raw.githubusercontent.com/NONFREE-VPN/Files/main/TH-DTAC-NOPRO-CAT.ovpn" }
 
     
@@ -32,5 +32,5 @@
 \n​ Copyright © 2022 NONTHAI-SAMU LIMITED
 \n  ",
 "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-"version":15
+"version":16
 }
