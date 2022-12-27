@@ -15,7 +15,7 @@
  "url": "https://raw.githubusercontent.com/NONFREE-VPN/Files/main/TH-AIS-PLAY64K-CAT.ovpn" },
 
 { "name": "DTAC-TH-CAT",
- "url": "https://raw.githubusercontent.com/NONFREE-VPN/Files/main/TH-DTAC-NOPRO-CAT.ovpn" }
+ "url": "https://raw.githubusercontent.com/NONFREE-VPN/Files/main/TH-DTAC-NOPRO-CAT.ovpn" },
 
     
 
@@ -33,5 +33,5 @@
 \n​ Copyright © 2022 NONTHAI-SAMU LIMITED
 \n  ",
 "title":"ไฟล์อัพเดทใหม่พร้อมใช้งาน" ,
-"version":19
+"version":20
 }
