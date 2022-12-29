@@ -3,9 +3,59 @@
 
 { "name": "DTAC-FREE-SG",
  "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/DTAC-FREE.ovpn" },
-   
 { "name": "TRUE-FREE-SG",
- "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TRUE-FREE.ovpn" } 
+ "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TRUE-FREE.ovpn" },
+{"name":"TH_CAT_1_DTAC","url":"https:\/\/thai4g.pwV/
+encon_vpn_app\/ovpn\/TH_CATV/TH_CAT_1-DTAC.ovpn"},
+{"name":"TH_CAT_1_TRUE","url":"https:\/\/thai4g.pw\/
+encon_vpn_appV/ovpn\/TH_CATV/TH_CAT_1-TRUE.ovpn"},
+{"name":"TH_CAT_2_DTAC","url":"https:\/\/thai4g.pwV/
+encon_vpn_app\/ovpn\/TH_CATV/TH_CAT_2-DTAC.ovpn"},
+{"name":"TH_CAT_2_TRUE","url":"https:\/\/thai4g.pwV
+encon_vpn_app\/ovpn\/TH_CATV/TH_CAT_2-TRUE.ovpn"},
+{"name":"TH_CAT_3_DTAC","url":"https:\/\/thai4g.pwV/
+encon_vpn_appVovpnV/TH_CATVTH_CAT_3-DTAC.ovpn"},
+{"name":"TH_CAT_3_TRUE","url":"https:\/\/thai4g.pw\/
+encon_vpn_app\/ovpn\/TH_CATV/TH_CAT_3-TRUE.ovpn"},
+{"name":"TH_BANGMOD_1_DTAC","url":"https:\/\/thai4g.pw\/
+encon_vpn_appV/ovpn\/TH_BANGMOD\/TH_BANGMOD_1-DTAC.ovpn"},
+{"name":"TH_BANGMOD_1_TRUE","url":"https:\/\/thai4g.pwV/
+encon_vpn_appVovpnV/TH_BANGMODV/TH_BANGMOD_1-TRUE.ovpn"},
+{"name":"TH_BANGMOD_2_DTAC","url":"https:\/\/thai4g.pw\/
+encon_vpn_appVovpnV/TH_BANGMODVTH_BANGMOD_2-DTAC.ovpn"},
+{"name":"TH_BANGMOD_2_TRUE","url":"https:\/\/thai4g.pw\/
+encon_vpn_appVovpn\/TH_BANGMODV/TH_BANGMOD_2-TRUE.ovpn"},
+{"name":"TH_BANGMOD_3_DTAC","url":"https:\/\/thai4g.pw\/
+encon_vpn_appV/ovpnV/TH_BANGMODV/TH_BANGMOD_3-DTAC.ovpn"},
+{"name":"TH_BANGMOD_3_TRUE","url":"https:\/\/thai4g.pw\/
+encon_vpn_appVovpnV/TH_BANGMODVTH_BANGMOD_3-TRUE.ovpn"},
+{"name":"TH_METRA_1_DTAC","url":"https:\/\/thai4g.pw\/
+encon_vpn_appV/ovpn\/TH_METRAV/TH_METRA_1-DTAC.ovpn"},
+{"name":"TH_METRA_1_TRUE","url":"https:\/\/thai4g.pw\/
+encon_vpn_appVovpn\/TH_METRAV/TH_METRA_1-TRUE.ovpn"},
+{"name":"TH_METRA_2_DTAC","url":"https:\/\/thai4g.pwV
+encon_vpn_appVovpn\/TH_METRAVTH_METRA_2-DTAC.ovpn"},
+{"name":"TH_METRA_2_TRUE","url":"https:\/\/thai4g.pw\/
+encon_vpn_appVovpn\/TH_METRAVTH_METRA_2-TRUE.ovpn"},
+{"name":"TH_METRA_3_DTAC","url":"https:\/\/thai4g.pw\/
+encon_vpn_app\/ovpn/TH_METRAVTH_METRA_3-DTAC.ovpn"},
+{"name":"TH_METRA_3_TRUE","url":"https:\/\/thai4g.pw\/
+encon_vpn_app\/ovpn\/TH_METRAV/TH_METRA_3-TRUE.ovpn"},
+{"name":"TH_INET_1_DTAC","url":"https:\/\/thai4g.pw\/
+encon_vpn_appVovpn\/TH_INET\/TH_INET_1-DTAC.ovpn"},
+{"name":"TH_INET_1_TRUE","url":"https:\/\/thai4g.pw\/
+encon_vpn_appVovpnV/TH_INETV/TH_INET_1-TRUE.ovpn"},
+{"name":"TH_INET_2_DTAC","url":"https:\/\/thai4g.pwV
+encon_vpn_appVovpnV/TH_INETV/TH_INET_2-DTAC.ovpn"},
+{"name":"TH_INET_2_TRUE","url":"https:\/\/thai4g.pwV/
+encon_vpn_appVovpn\/TH_INET\/TH_INET_2-TRUE.ovpn"}
+
+
+
+
+
+
+
 
 
 
@@ -17,11 +67,11 @@
 \n ♥️♥️เซิร์ฟเวอร์ไม่แรง♥️♥️
 \n 🙏ต้องขออภัยมาใน ณ ที่นี้ด้วยครับ🙏
 \n 🚀เครดิตไฟล์ Admin NONTHAI🚀
-\n คอนฟิกเวอร์ชั่น:24
-\n อัพเดทเมื่อวันที่:28/ธค/2022
+\n คอนฟิกเวอร์ชั่น:25
+\n อัพเดทเมื่อวันที่:30/ธค/2022
 \n \nผู้พัฒนาแอพ:SAMUPRO
 \n​ Copyright © 2022 NONTHAI-SAMU LIMITED
 \n  ",
 "title":"ตรวจพบไฟล์เวอร์ชั่นใหม่กรุณากดอัพเดท" ,
-"version":24
+"version":25
 }
